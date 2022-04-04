@@ -2,6 +2,6 @@
 - [x] Git file size including
 - [ ] Delete api implemented
 - [x] Response must be same for all errors... 
-- [ ] New Bug added... 
+- [x] New Bug added... completed
 
 
