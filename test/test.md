@@ -5,5 +5,5 @@
 - [x] New Bug added... completed
 - [ ] Another bug added ...
 - [ ] One more bug added... 
-
+- [ ] the another one 
 
