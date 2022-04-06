@@ -7,3 +7,4 @@
 - [ ] One more bug added... 
 - [ ] the another one 
 - [ ] One more
+- [ ] test segment update
